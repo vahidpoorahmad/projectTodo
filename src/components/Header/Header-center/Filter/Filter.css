@@ -1,0 +1,28 @@
+.form__search {
+    width: 100%;
+    display: flex;
+    max-width: 400px;
+    margin: 8px auto;
+    height: 32px;
+    position: relative;
+  }
+  .formSearch__btn {
+    border: none;
+    outline: none;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    background-color: #819edd;
+    border-radius: 3px 0px 0px 3px;
+    padding: 0 5px;
+    color: #fff;
+  }
+  .formSearch__input {
+    border: none;
+    outline: none;
+    width: 100%;
+    outline: none;
+    background-color: #819edd;
+    border-radius: 0 3px 3px 0;
+  }
+  

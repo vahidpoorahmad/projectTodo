@@ -1,0 +1,35 @@
+.add {
+  min-height: 52px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  word-wrap: break-word;
+  word-break: break-word;
+  padding: 0 16px;
+  box-shadow: 0 17px 0 -16px #e5e5e5;
+  flex-wrap: wrap;
+}
+.list-menu {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex: 1;
+}
+.list__item-left {
+  display: flex;
+}
+.add__list-center {
+  font-size: 12px;
+  color: #34373d;
+  cursor: default;
+  position: relative;
+  flex: 1 1 0px;
+  min-height: 53px;
+  padding: 8px 12px;
+  line-height: 18px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.list__item-right {
+  display: flex;
+}

@@ -1,0 +1,17 @@
+.lancher {
+  background: transparent;
+  border-width: 0;
+  width: auto;
+  height: 100%;
+  box-sizing: border-box;
+  overflow: visible;
+}
+.ancher__icon {
+  padding: 13.5px;
+  border: none;
+  outline: none;
+  background: inherit;
+  color: #fff;
+  position: relative;
+  cursor: pointer;
+}

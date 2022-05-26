@@ -1,0 +1,3 @@
+export const INSERT_TASK = "INSERT_TASK";
+export const TOGGEL_COMPLATE = "TOGGEL_COMPLATE";
+export const TOGGEL_STAR = "TOGGEL_STAR";

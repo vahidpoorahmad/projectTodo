@@ -1,0 +1,4 @@
+export const INSERT_ITEMS = "INSERT_ITEMS";
+export const INSERT_TASKS = "INSERT_TASKS";
+export const INCREMENT_COUNT = "INCREMENT_COUNT";
+export const DECREMENT_COUNT = "DECREMENT_COUNT";

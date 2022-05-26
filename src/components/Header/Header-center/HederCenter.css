@@ -1,0 +1,26 @@
+.Region {
+  display: flex;
+  align-items: center;
+}
+.Region__icon {
+  border: none;
+  outline: none;
+  width: 35px;
+  height: 45px;
+  color: #fff;
+  background: inherit;
+  cursor: pointer;
+}
+
+.navbar__center {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1 1 auto;
+}
+.navbar__center--inputSearch {
+  display: flex;
+  flex: 1 0 auto;
+  justify-content: center;
+  align-items: flex-end;
+}

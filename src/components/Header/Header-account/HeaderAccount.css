@@ -1,0 +1,16 @@
+.account {
+  width: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.account__icon {
+  outline: none;
+  border: 1px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 26px;
+  width: 24px;
+  background: inherit;
+}
